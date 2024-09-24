@@ -12,6 +12,7 @@ La aplicación Luna se puede descargar desde <a href="https://portfolio-david-si
 - Sqlite
   
 ## Características
+
 - **Entradas del Diario**: Los usuarios pueden crear entradas de diario para documentar sus experiencias diarias, pensamientos y sentimientos.
 - **Seguimiento del Estado de Ánimo**: La aplicación rastrea el estado de ánimo del usuario a lo largo del tiempo, proporcionando información sobre su estado emocional.
 - **Analíticas**: Analíticas detalladas y visualizaciones ayudan a los usuarios a comprender sus patrones y tendencias de estado de ánimo.
@@ -21,6 +22,6 @@ La aplicación Luna se puede descargar desde <a href="https://portfolio-david-si
 ## Capturas
 <img src="https://github.com/user-attachments/assets/ea40b3ce-feee-4ef5-a6cf-f7875d51cc7d" width="400">
 <img src="https://github.com/user-attachments/assets/8b59d69f-c6ee-4543-a226-04c441c56356" width="400">
-<img src="https://github.com/user-attachments/assets/0d47ef6b-aa8e-42be-a7c2-97df41b63adb" width="800">
+<img src="https://github.com/user-attachments/assets/eaaf7c66-a48a-4706-8281-4d9fdcb22d47" width="800">
 <img src="https://github.com/user-attachments/assets/35a24232-79ce-46c9-b305-da56c2349fba" width="800">
 
