@@ -3,6 +3,9 @@
 # Luna
 Esta es una aplicación de diario móvil, desarrollada con Flutter, que permite a los usuarios registrar sus pensamientos y emociones. Ofrece un seguimiento del estado de ánimo y analíticas detalladas, ayudando a los usuarios a reflexionar sobre su bienestar emocional.
 
+## Descarga
+La aplicación Luna se puede descargar desde <a href="https://portfolio-david-simba.vercel.app/" target="_blank">Mi portafolio</a>.
+
 ## Tecnologías Utilizadas
 - Dart
 - Flutter
@@ -14,9 +17,6 @@ Esta es una aplicación de diario móvil, desarrollada con Flutter, que permite 
 - **Analíticas**: Analíticas detalladas y visualizaciones ayudan a los usuarios a comprender sus patrones y tendencias de estado de ánimo.
 - **Almacenamiento Seguro**: Todos los datos del usuario se almacenan de forma segura y encriptada, garantizando privacidad y confidencialidad.
 - **Interfaz Amigable**: La aplicación cuenta con un diseño limpio e intuitivo, lo que facilita su uso para usuarios de todas las edades.
-
-## Descarga
-La aplicación Luna se puede descargar desde <a href="https://portfolio-david-simba.vercel.app/" target="_blank">Mi portafolio</a>.
 
 ## Capturas
 <img src="https://github.com/user-attachments/assets/ea40b3ce-feee-4ef5-a6cf-f7875d51cc7d" width="400">
