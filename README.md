@@ -16,17 +16,17 @@ La aplicación Luna se puede descargar desde el [Mi portafolio](https://portfoli
 
 ## Tecnologías Utilizadas
 <div style="background-color: #f4f4f4; padding: 10px; border-radius: 5px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Flutter-logo-sharing.png" alt="Flutter" width="30" style="vertical-align: middle;"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrVEySpz_WCLD0JMRdOPTmnTDDgMmDzV509w&s" alt="Flutter" width="30" style="vertical-align: middle;"/>
   <span style="margin-left: 5px;">Flutter</span>
   
   <br/>
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Unofficial_Dart_logo.png" alt="Dart" width="30" style="vertical-align: middle;"/>
+  <img src="https://e7.pngegg.com/pngimages/678/747/png-clipart-dart-logo-thumbnail-tech-companies.png" alt="Dart" width="30" style="vertical-align: middle;"/>
   <span style="margin-left: 5px;">Dart</span>
   
   <br/>
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/SQLite370.svg" alt="SQLite" width="30" style="vertical-align: middle;"/>
+  <img src="https://w7.pngwing.com/pngs/548/330/png-transparent-sqlite-hd-logo-thumbnail.png" width="30" style="vertical-align: middle;"/>
   <span style="margin-left: 5px;">SQLite</span>
 </div>
 
