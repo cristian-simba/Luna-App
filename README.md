@@ -15,24 +15,23 @@ Esta es una aplicación de diario móvil, desarrollada con Flutter, que permite 
 La aplicación Luna se puede descargar desde el [Mi portafolio](https://portfolio-david-simba.vercel.app/).
 
 ## Tecnologías Utilizadas
-<div style="display: flex; align-items: center; background-color: #f0f0f0; padding: 10px; border-radius: 8px;">
-  <img src="https://github.com/user-attachments/assets/6da71e91-7a0e-4cd3-bc53-c0dd67cf7846" alt="Flutter Logo" width="50" height="50" style="margin-right: 10px;">
-  <div>
-    <h3 style="margin: 0;">Flutter</h3>
-    <p style="margin: 0;">Framework de desarrollo móvil multiplataforma</p>
-  </div>
+<div style="background-color: #f4f4f4; padding: 10px; border-radius: 5px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Flutter-logo-sharing.png" alt="Flutter" width="30" style="vertical-align: middle;"/>
+  <span style="margin-left: 5px;">Flutter</span>
+  
+  <br/>
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Unofficial_Dart_logo.png" alt="Dart" width="30" style="vertical-align: middle;"/>
+  <span style="margin-left: 5px;">Dart</span>
+  
+  <br/>
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/SQLite370.svg" alt="SQLite" width="30" style="vertical-align: middle;"/>
+  <span style="margin-left: 5px;">SQLite</span>
 </div>
-<div style="display: flex; align-items: center; background-color: #f0f0f0; padding: 10px; border-radius: 8px; margin-top: 10px;">
-  <img src="https://github.com/user-attachments/assets/c50ea0ba-b0c6-449f-9a3f-28f3b8f56f9e" alt="Dart Logo" width="50" height="50" style="margin-right: 10px;">
-  <div>
-    <h3 style="margin: 0;">Dart</h3>
-    <p style="margin: 0;">Lenguaje de programación utilizado por Flutter</p>
-  </div>
-</div>
-<div style="display: flex; align-items: center; background-color: #f0f0f0; padding: 10px; border-radius: 8px; margin-top: 10px;">
-  <img src="https://github.com/user-attachments/assets/7e6e3426-c1d1-4a64-b7e8-41f80d142f85" alt="SQLite Logo" width="50" height="50" style="margin-right: 10px;">
-  <div>
-    <h3 style="margin: 0;">SQLite</h3>
-    <p style="margin: 0;">Base de datos relacional embebida</p>
-  </div>
-</div>
+
+<img src="https://github.com/user-attachments/assets/ea40b3ce-feee-4ef5-a6cf-f7875d51cc7d" width="400">
+<img src="https://github.com/user-attachments/assets/8f543c47-225a-43ff-8d0d-b88d7d24f2eb" width="400">
+<img src="https://github.com/user-attachments/assets/0d47ef6b-aa8e-42be-a7c2-97df41b63adb" width="800">
+<img src="https://github.com/user-attachments/assets/35a24232-79ce-46c9-b305-da56c2349fba" width="800">
+
