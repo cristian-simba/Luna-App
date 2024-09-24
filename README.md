@@ -16,7 +16,7 @@ Esta es una aplicación de diario móvil, desarrollada con Flutter, que permite 
 - **Interfaz Amigable**: La aplicación cuenta con un diseño limpio e intuitivo, lo que facilita su uso para usuarios de todas las edades.
 
 ## Descarga
-La aplicación Luna se puede descargar desde el [Mi portafolio](https://portfolio-david-simba.vercel.app/).
+La aplicación Luna se puede descargar desde <a href="https://portfolio-david-simba.vercel.app/" target="_blank">Mi portafolio</a>.
 
 ## Capturas
 <img src="https://github.com/user-attachments/assets/ea40b3ce-feee-4ef5-a6cf-f7875d51cc7d" width="400">
