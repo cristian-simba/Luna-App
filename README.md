@@ -30,8 +30,9 @@ La aplicación Luna se puede descargar desde el [Mi portafolio](https://portfoli
   <span style="margin-left: 5px;">SQLite</span>
 </div>
 
+## Capturas
 <img src="https://github.com/user-attachments/assets/ea40b3ce-feee-4ef5-a6cf-f7875d51cc7d" width="400">
-<img src="https://github.com/user-attachments/assets/8f543c47-225a-43ff-8d0d-b88d7d24f2eb" width="400">
+<img src="https://github.com/user-attachments/assets/8b59d69f-c6ee-4543-a226-04c441c56356" width="400">
 <img src="https://github.com/user-attachments/assets/0d47ef6b-aa8e-42be-a7c2-97df41b63adb" width="800">
 <img src="https://github.com/user-attachments/assets/35a24232-79ce-46c9-b305-da56c2349fba" width="800">
 
