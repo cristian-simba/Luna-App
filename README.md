@@ -3,8 +3,12 @@
 # Luna
 Esta es una aplicación de diario móvil, desarrollada con Flutter, que permite a los usuarios registrar sus pensamientos y emociones. Ofrece un seguimiento del estado de ánimo y analíticas detalladas, ayudando a los usuarios a reflexionar sobre su bienestar emocional.
 
+## Tecnologías Utilizadas
+- Dart
+- Flutter
+- Sqlite
+  
 ## Características
-
 - **Entradas del Diario**: Los usuarios pueden crear entradas de diario para documentar sus experiencias diarias, pensamientos y sentimientos.
 - **Seguimiento del Estado de Ánimo**: La aplicación rastrea el estado de ánimo del usuario a lo largo del tiempo, proporcionando información sobre su estado emocional.
 - **Analíticas**: Analíticas detalladas y visualizaciones ayudan a los usuarios a comprender sus patrones y tendencias de estado de ánimo.
@@ -13,22 +17,6 @@ Esta es una aplicación de diario móvil, desarrollada con Flutter, que permite 
 
 ## Descarga
 La aplicación Luna se puede descargar desde el [Mi portafolio](https://portfolio-david-simba.vercel.app/).
-
-## Tecnologías Utilizadas
-<div style="background-color: #f4f4f4; padding: 10px; border-radius: 5px;">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrVEySpz_WCLD0JMRdOPTmnTDDgMmDzV509w&s" alt="Flutter" width="30" style="vertical-align: middle;"/>
-  <span style="margin-left: 5px;">Flutter</span>
-  
-  <br/>
-
-  <img src="https://e7.pngegg.com/pngimages/678/747/png-clipart-dart-logo-thumbnail-tech-companies.png" alt="Dart" width="30" style="vertical-align: middle;"/>
-  <span style="margin-left: 5px;">Dart</span>
-  
-  <br/>
-
-  <img src="https://w7.pngwing.com/pngs/548/330/png-transparent-sqlite-hd-logo-thumbnail.png" width="30" style="vertical-align: middle;"/>
-  <span style="margin-left: 5px;">SQLite</span>
-</div>
 
 ## Capturas
 <img src="https://github.com/user-attachments/assets/ea40b3ce-feee-4ef5-a6cf-f7875d51cc7d" width="400">
